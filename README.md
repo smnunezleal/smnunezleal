@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @smnunezleal
 - 👀 I’m interested in blockchain and dapps development.
 - 🌱 I’m currently learning JS & Solidity.
-- 💞️ I’m looking to collaborate on smart contract projects.
+- 💞️ I’m looking to collaborate on smart contract & solidity projects.
 - 📫 Reach me at sebastian1986@gmail.com
 
 <!---
